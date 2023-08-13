@@ -4,4 +4,7 @@ Spooky Neigbor" and published it on GameJolt.
 
 Since I have nothing better to do, here's the source to that exact game, built on Unity 2018.4.4f1
 
-(and because im an idiot and literally dont know how to add things into the repository, its in the releases)
+(and because i have no idea what im doing, the source is in the releases)
+
+I'm pretty sure it's fine to keep this up since somebody already decompiled the commercial (PC) version of
+Granny and that's been on GitHub for like 2 years.
